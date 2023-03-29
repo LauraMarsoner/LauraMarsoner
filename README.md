@@ -58,9 +58,9 @@ In my portfolio, you can find examples of my work, including code snippets and p
 # Projects
 
 <p>
-<a href="https://github.com/MarsonerLaura/KingdomOfMath"><img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/228308555-fd76d09a-891c-4af3-bacf-f146c8b525a4.gif" alt="Kingdom of Math"></a>
+<a href="https://github.com/LauraMarsoner/KingdomOfMath"><img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/228308555-fd76d09a-891c-4af3-bacf-f146c8b525a4.gif" alt="Kingdom of Math"></a>
   <div align="center">
-  <h2><a href="https://github.com/MarsonerLaura/KingdomOfMath">Kingdom of Math</a></h2>
+  <h2><a href="https://github.com/LauraMarsoner/KingdomOfMath">Kingdom of Math</a></h2>
 Kingdom of Math is a serious game that combines the addictive and engaging gameplay of an action RPG with optional but rewarding mathematical content. In a fantasy world, players can explore, fight enemies, learn skills, complete quests, find chests, collect and upgrade items.
   <br>
 <br>
@@ -78,7 +78,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 # Resume
 If you're interested in learning more about my background and qualifications, you can check out my resume, which is available as a PDF download.
 
-[CV_Laura_Marsoner.pdf](https://github.com/MarsonerLaura/MarsonerLaura/files/11090781/CV_Laura_Marsoner.pdf)
+[CV_Laura_Marsoner.pdf](https://github.com/LauraMarsoner/LauraMarsoner/files/11102755/CV_Laura_Marsoner.pdf)
 
 
 <!---
