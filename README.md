@@ -74,6 +74,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 
 </div>
 </p>
+<br>
 
 # Resume
 If you're interested in learning more about my background and qualifications, you can check out my resume, which is available as a PDF download.
