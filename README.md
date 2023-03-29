@@ -80,7 +80,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 # Resume
 If you're interested in learning more about my background and qualifications, you can check out my resume, which is available as a PDF download.
 
-[CV_Laura_Marsoner.pdf](https://github.com/LauraMarsoner/LauraMarsoner/files/11102755/CV_Laura_Marsoner.pdf)
+[CV_Laura_Marsoner_English.pdf](https://github.com/LauraMarsoner/LauraMarsoner/files/11102971/CV_Laura_Marsoner_English.pdf)
 
 
 <!---
