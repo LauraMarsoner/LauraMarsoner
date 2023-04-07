@@ -77,7 +77,9 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 </p>
 <br>
 <p>
-<div align="center">
+
+<a href="https://github.com/LauraMarsoner/PuzzleHunt"><img align="right" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg" alt="PuzzleHunt"></a>
+  <div align="center">
     <br>
   <h2><a href="https://github.com/LauraMarsoner/KingdomOfMath">PuzzleHunt</a></h2>
 <i>PuzzleHunt</i> is a social game for mobile devices that allows players to collect Puzzle Pieces while running around in real life and combine them to complete puzzles. It also allows to gamble at dealers located around the map and to buy puzzlle pieces in shops and to trade them with friends.
@@ -95,8 +97,6 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 `Krita`
 
 </div>
-<a href="https://github.com/LauraMarsoner/PuzzleHunt"><img align="right" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg" alt="PuzzleHunt"></a>
-  
 </p>
 <br>
 
