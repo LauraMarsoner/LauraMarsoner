@@ -75,7 +75,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 
 </div>
 </p>
-<br>
+
 
 <p>
 
@@ -99,6 +99,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 
 </div>
 </p>
+<br>
 <br>
 
 # Resume
