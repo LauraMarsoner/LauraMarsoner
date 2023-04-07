@@ -58,6 +58,7 @@ In my portfolio, you can find examples of my work, including code snippets and p
 # Projects
 <!--https://user-images.githubusercontent.com/104200268/228308555-fd76d09a-891c-4af3-bacf-f146c8b525a4.gif-->
 <p>
+  <br>
 <a href="https://github.com/LauraMarsoner/KingdomOfMath"><img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/42000334/230616318-e94f3342-dda8-4ea1-9556-3ea744c4adcc.gif" alt="Kingdom of Math"></a>
   <div align="center">
   <h2><a href="https://github.com/LauraMarsoner/KingdomOfMath">Kingdom of Math</a></h2>
@@ -74,6 +75,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 
 </div>
 </p>
+<br>
 <br>
 
 <p>
@@ -98,6 +100,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 
 </div>
 </p>
+<br>
 <br>
 <br>
 
