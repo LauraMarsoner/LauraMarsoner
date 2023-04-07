@@ -90,11 +90,11 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 `Java`
 `XML`
 `Firebase`
-`MongoDB`
+`MongoDB`  
+`Krita`
 `Play! Framework`
 `OpenWeatherAPI`
 `GitLab`
-`Krita`
 
 </div>
 </p>
