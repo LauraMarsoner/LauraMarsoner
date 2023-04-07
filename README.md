@@ -60,6 +60,7 @@ In my portfolio, you can find examples of my work, including code snippets and p
 <p>
 <a href="https://github.com/LauraMarsoner/KingdomOfMath"><img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/42000334/230616318-e94f3342-dda8-4ea1-9556-3ea744c4adcc.gif" alt="Kingdom of Math"></a>
   <div align="center">
+    <br>
   <h2><a href="https://github.com/LauraMarsoner/KingdomOfMath">Kingdom of Math</a></h2>
 Kingdom of Math is a serious game that combines the addictive and engaging gameplay of an action RPG with optional but rewarding mathematical content. In a fantasy world, players can explore, fight enemies, learn skills, complete quests, find chests, collect and upgrade items.
   <br>
@@ -75,7 +76,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 </div>
 </p>
 <br>
-
+<br>
 <p>
 
 <a href="https://github.com/LauraMarsoner/PuzzleHunt"><img align="right" width="49%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg" alt="PuzzleHunt"></a>
