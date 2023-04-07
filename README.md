@@ -84,6 +84,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
   <div align="center">
     <br>
     <br>
+    <br>
   <h2><a href="https://github.com/LauraMarsoner/PuzzleHunt">PuzzleHunt</a></h2>
 <i>PuzzleHunt</i> is a social game for mobile devices that allows players to collect Puzzle Pieces while running around in real life and combine them to complete puzzles. It also allows to gamble at dealers located around the map and to buy puzzlle pieces in shops and to trade them with friends.
   <br>
