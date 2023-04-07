@@ -76,7 +76,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 </div>
 </p>
 <br>
-<br>
+
 <p>
 
 <a href="https://github.com/LauraMarsoner/PuzzleHunt"><img align="right" width="49%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg" alt="PuzzleHunt"></a>
