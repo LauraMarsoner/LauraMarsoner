@@ -105,6 +105,24 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 <br>
 <br>
 <br>
+<p>
+
+<a href="https://github.com/LauraMarsoner/DwarfTower"><img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/42000334/230771025-3a9b8b12-1969-4493-a3ea-a76f0f089577.gif" alt="DwarfTower"></a>
+  <div align="center">
+      <br>
+  <h2><a href="https://github.com/LauraMarsoner/DwarfTower">DwarfTower</a></h2>
+DwarfTower is a local multiplayer tower defense game set in a vibrant steampunk world. As the game's main characters, two dwarfs must defend and free their island by strategically placing towers and defeating waves of enemies. Players can collect coins to upgrade their towers and gain an edge in battle.
+  <br>
+<br>
+
+ `Unity`
+ `C#`
+ `UnityCollab`
+ `Rider`
+ `Krita`
+
+</div>
+</p>
 
 # Resume
 If you're interested in learning more about my background and qualifications, you can check out my resume, which is available as a PDF download.
