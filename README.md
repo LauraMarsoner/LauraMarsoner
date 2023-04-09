@@ -106,7 +106,7 @@ Kingdom of Math is a serious game that combines the addictive and engaging gamep
 <br>
 <p>
 
-<a href="https://github.com/LauraMarsoner/DwarfTower"><img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/42000334/230771025-3a9b8b12-1969-4493-a3ea-a76f0f089577.gif" alt="DwarfTower"></a>
+<a href="https://github.com/LauraMarsoner/DwarfTower"><img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/42000334/230771182-e5e6b752-9f0e-48ea-83e2-0b98afc00b81.gif" alt="DwarfTower"></a>
   <div align="center">
       <br>
     <br>
