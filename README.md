@@ -126,8 +126,7 @@ DwarfTower is a local multiplayer tower defense game set in a vibrant steampunk 
 </p>
 <br>
 <br>
-<br>
-<br>
+
 
 # Resume
 If you're interested in learning more about my background and qualifications, you can check out my resume, which is available as a PDF download.
