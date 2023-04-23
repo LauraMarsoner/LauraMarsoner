@@ -135,7 +135,7 @@ DwarfTower is a local multiplayer tower defense game set in a vibrant steampunk 
     <br>
     <br>
   <h2><a href="https://github.com/LauraMarsoner/GrimmaFloodfighters">GrimmaFloodfighters</a></h2>
- <i>GrimmaFloodfighters</i> is a real-time strategy game that demonstrates the successful integration of open geodata for disaster simulation. The city and terrain model in the game is based on publicly available geodata for the Saxony city of Grimma, where players can use floodfighter units, sandbags, boats, and emergency vehicles to rescue people and combat flood-related effects. 
+ <i>GrimmaFloodfighters</i> is a real-time strategy game that demonstrates the integration of open geodata for disaster simulation. The city and terrain model in the game is based on publicly available geodata for the Saxony city of Grimma, where players can use floodfighter units, sandbags, boats, and emergency vehicles to rescue people and combat flood-related effects. 
   <br>
 <br>
 
