@@ -121,12 +121,38 @@ DwarfTower is a local multiplayer tower defense game set in a vibrant steampunk 
  `UnityCollab`
  `Rider`
  `Krita`
+</div>
+</p>
+
+<br>
+<br>
+<p>
+
+<a href="https://github.com/LauraMarsoner/PuzzleHunt"><img align="right" width="49%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg" alt="PuzzleHunt"></a>
+  <div align="center">
+    <br>
+    <br>
+    <br>
+  <h2><a href="https://github.com/LauraMarsoner/PuzzleHunt">PuzzleHunt</a></h2>
+<i>PuzzleHunt</i> is a social game for mobile devices that allows players to collect Puzzle Pieces while running around in real life and combine them to complete puzzles. It also allows to gamble at dealers located around the map and to buy puzzlle pieces in shops and to trade them with friends.
+  <br>
+<br>
+
+`AndroidStudio`
+`Java`
+`XML`
+`Firebase`
+`MongoDB`  
+`Krita`
+`Play! Framework`
+`OpenWeatherAPI`
+`GitLab`
 
 </div>
 </p>
 <br>
 <br>
-
+<p>
 
 # Resume
 If you're interested in learning more about my background and qualifications, you can check out my resume, which is available as a PDF download.
