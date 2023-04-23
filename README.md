@@ -128,25 +128,23 @@ DwarfTower is a local multiplayer tower defense game set in a vibrant steampunk 
 <br>
 <p>
 
-<a href="https://github.com/LauraMarsoner/PuzzleHunt"><img align="right" width="49%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg" alt="PuzzleHunt"></a>
+<a href="https://github.com/LauraMarsoner/GrimmaFloodfighters"><img align="right" width="49%" height="auto" src="https://user-images.githubusercontent.com/104200268/233834421-5d535369-d90b-45dd-ad76-92b8c4743312.jpg" alt="GrimmaFloodfighters"></a>
   <div align="center">
     <br>
     <br>
     <br>
-  <h2><a href="https://github.com/LauraMarsoner/PuzzleHunt">PuzzleHunt</a></h2>
-<i>PuzzleHunt</i> is a social game for mobile devices that allows players to collect Puzzle Pieces while running around in real life and combine them to complete puzzles. It also allows to gamble at dealers located around the map and to buy puzzlle pieces in shops and to trade them with friends.
+  <h2><a href="https://github.com/LauraMarsoner/GrimmaFloodfighters">GrimmaFloodfighters</a></h2>
+<i>GrimmaFloodfighters</i> is a real-time strategy game that integrates open geodata for disaster simulation. Based on publicly available geodata for Grimma, players can utilize floodfighter units, sandbags, boats, and emergency vehicles to rescue people and combat flood-related effects.
   <br>
 <br>
 
-`AndroidStudio`
-`Java`
-`XML`
-`Firebase`
-`MongoDB`  
-`Krita`
-`Play! Framework`
-`OpenWeatherAPI`
-`GitLab`
+ `Unity`
+ `C#`
+ `GitHub`
+ `Rider`
+ `Blender`
+ `Krita`
+ `Geodata`
 
 </div>
 </p>
