@@ -121,11 +121,12 @@ DwarfTower is a local multiplayer tower defense game set in a vibrant steampunk 
  `UnityCollab`
  `Rider`
  `Krita`
+    
 </div>
 </p>
 
 <br>
-<br>
+
 <p>
 
 <a href="https://github.com/LauraMarsoner/GrimmaFloodfighters"><img align="right" width="49%" height="auto" src="https://user-images.githubusercontent.com/104200268/233834421-5d535369-d90b-45dd-ad76-92b8c4743312.jpg" alt="GrimmaFloodfighters"></a>
@@ -148,6 +149,7 @@ DwarfTower is a local multiplayer tower defense game set in a vibrant steampunk 
 
 </div>
 </p>
+<br>
 <br>
 <br>
 <p>
